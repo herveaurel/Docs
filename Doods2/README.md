@@ -27,6 +27,8 @@ Doods peut détecter via des photos, via le flux live (personnellement non recom
 
 La doc : https://www.home-assistant.io/integrations/doods/
 
+![alt text](https://github.com/herveaurel/Docs/Doods2/blob/main/Captures/icon.png)
+
 2 choses à faire pour installer doods2 : (voir liens dans la doc selon si Home Assistant add-on ou Docker container)
 
 - Installer le module complémentaire (addon) avec ce dépôt : https://github.com/snowzach/hassio-addons , l’installation est longue. 
@@ -433,6 +435,10 @@ Libre à vous de modifier vos déclencheurs, vos actions, mais après de nombreu
 ---------------------
 
 ## 5. Infos: 
+
+Les détections sont dans un encadré, et en zoomant, au dessus en petit, on peut voir le niveau de détection (confidence) en %. 
+
+Pour ce type de carte vous pouvez vous référer directement à mon GitHub : https://github.com/herveaurel/HomeAssistant 
 
 
 ---------------------
