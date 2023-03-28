@@ -5,11 +5,13 @@
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ## Cartographie aspis Xiaomi et commandes vocales 
-(avec mon pote Yann RITTER)
+Ecrit mon pote Yann RITTER
+
 https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
 ## Recorder 
-(avec mon pote Yann RITTER)
+Ecrit mon pote Yann RITTER
+
 https://github.com/herveaurel/Docs/tree/main/Recorder
 
 ## Notification actionnable iOS (choix dans la notif)
