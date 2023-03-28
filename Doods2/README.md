@@ -1,10 +1,5 @@
 # Home Assistant - Doods2 (par Aurel RV)
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
 
 Je pars du principe que vous avez déjà au minimum une caméra fonctionnelle dans Home Assistant.
 Sinon, la suite va être compliquée…
@@ -88,6 +83,7 @@ shell_command:
 
 Reboot de HA, puis créez une automatisation, comme par exemple : 
 
+```
 alias: Nettoyage historiques Media
 description: ""
 trigger:
@@ -100,6 +96,7 @@ action:
   - service: shell_command.nettoyage_historiques_media
     data: {}
 mode: single
+```
 
 -----
 
@@ -117,6 +114,8 @@ target:
 
 Une automatisation de base donnerai donc ceci : 
 
+
+```
 alias: Camera entrée snapshot détection sans alarme
 description: ""
 trigger:
@@ -158,6 +157,7 @@ action:
 mode: queued
 max: 10
 
+```
 
 
 L’idéal est d’ajouter une option à la fin, et de recommencer l’opération 1, 2, 5, 10 fois ! avec un délai de 2 secondes. Afin que si aucune détection trouvée à la première photo, 2 sec de délai puis une photo est reprise et analysée, et sur cette dernière action, on recommence encore une fois ! 
