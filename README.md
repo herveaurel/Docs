@@ -7,14 +7,14 @@ https://github.com/herveaurel/Docs/tree/main/Doods2
 ------
 
 ## Cartographie aspis Xiaomi et commandes vocales 
-Ecrit mon pote Yann RITTER
+Ecrit avec mon pote Yann RITTER
 
 https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
 ------
 
 ## Recorder 
-Ecrit mon pote Yann RITTER
+Ecrit avec mon pote Yann RITTER
 
 https://github.com/herveaurel/Docs/tree/main/Recorder
 
