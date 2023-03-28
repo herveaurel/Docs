@@ -5,6 +5,12 @@
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ## Notification actionnable iOS (choix dans la notif)
+https://github.com/herveaurel/Docs/blob/main/Aspirateur/tutoriel%20cartographie%20aspirateur.md
+
+## Notification actionnable iOS (choix dans la notif)
+
+
+## Notification actionnable iOS (choix dans la notif)
 https://github.com/herveaurel/Docs/tree/main/Notification%20actionnable%20iOS
 
 ## Modifier la sensibilité du capteur vibration Aqara sous ZHA
