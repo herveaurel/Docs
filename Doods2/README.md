@@ -438,8 +438,12 @@ Libre à vous de modifier vos déclencheurs, vos actions, mais après de nombreu
 
 Les détections sont dans un encadré, et en zoomant, au dessus en petit, on peut voir le niveau de détection (confidence) en %. 
 
+![alt text](https://github.com/herveaurel/Docs/blob/main/Doods2/Captures/confidence.png)
+
+
 Pour ce type de carte vous pouvez vous référer directement à mon GitHub : https://github.com/herveaurel/HomeAssistant 
 
+![alt text](https://github.com/herveaurel/Docs/blob/main/Doods2/Captures/carte.png)
 
 ---------------------
 
