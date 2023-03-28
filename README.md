@@ -1,7 +1,7 @@
 # Home Assistant - Articles et tutoriels
 
 
-## `#ffffff` Doods2 : reconnaissance de personnes (et autres) sur photos
+## Doods2 : reconnaissance de personnes (et autres) sur photos
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ------
