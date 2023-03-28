@@ -156,7 +156,6 @@ action:
       entity_id: image_processing.doods_entree_detection
 mode: queued
 max: 10
-
 ```
 
 
@@ -172,6 +171,7 @@ Exemple d’automatisation complète si l’alarme est activée comportant
 - et l’envoi d’un enregistrement vidéo avec 30 secondes avant le déclencheur, en notification aussi 
 (Tout ceci étant sauvegardé dans Média)
 
+```
 alias: Camera entrée snapshot détection avec alarme
 description: ""
 trigger:
@@ -306,7 +306,7 @@ action:
               data: {}
             - stop: Détection réussie
 mode: single
-
+```
 
 Autre exemple d’automatisation complète si l’alarme est désactivée comportant 
 - les reports si aucune détection, 
