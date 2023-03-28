@@ -4,10 +4,12 @@
 ## Doods2 : reconnaissance de personnes (et autres) sur photos
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
-## Cartographie aspis Xiaomi et commandes vocales ### (avec mon pote Yann RITTER)
+## Cartographie aspis Xiaomi et commandes vocales 
+(avec mon pote Yann RITTER)
 https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
-## Recorder ### (avec mon pote Yann RITTER)
+## Recorder 
+(avec mon pote Yann RITTER)
 https://github.com/herveaurel/Docs/tree/main/Recorder
 
 ## Notification actionnable iOS (choix dans la notif)
