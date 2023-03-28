@@ -38,6 +38,7 @@ La doc : https://www.home-assistant.io/integrations/doods/
 
 - Ces paramètres sont pour de l’analyse de photos, pour de la détection sur du flux il faudrait changer des paramètres. Ajouter ceci dans configuration.yaml : 
 
+```
 image_processing:
   - platform: doods
     url: "http://0.0.0.0:8080"
@@ -52,6 +53,7 @@ image_processing:
     labels:
       - name: person
         confidence: 85
+```
 
 Dans cette configuration les entités des caméras sont les entités créés à base des photos comme vu juste avant. Pas des caméras réellement. 
 Sous file_out, ce sont les deux chemins où s’enregistreront les détections réussies. 
