@@ -5,7 +5,7 @@
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ## Cartographie aspis Xiaomi et commandes vocales (avec mon pote Yann RITTER)
-https://github.com/herveaurel/Docs/blob/main/Aspirateur/tutoriel%20cartographie%20aspirateur.md
+https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
 ## Recorder (avec mon pote Yann RITTER)
 https://github.com/herveaurel/Docs/tree/main/Recorder
