@@ -64,7 +64,7 @@ destructive: true
 title: 🚫 Non
 ```
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Doods2/Captures/notif.jpg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/Notification actionnable iOS/Captures/notif.jpg)
 
 ---------------------
 
