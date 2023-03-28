@@ -171,6 +171,7 @@ Exemple d’automatisation complète si l’alarme est activée comportant
 - et l’envoi d’un enregistrement vidéo avec 30 secondes avant le déclencheur, en notification aussi 
 (Tout ceci étant sauvegardé dans Média)
 
+
 ```
 alias: Camera entrée snapshot détection avec alarme
 description: ""
@@ -314,6 +315,7 @@ Autre exemple d’automatisation complète si l’alarme est désactivée compor
 - une notification push prioritaire et actionnable uniquement si je ne suis pas à mon domicile
 (Tout ceci étant sauvegardé dans Média)
 
+```
 alias: Camera entrée snapshot détection sans alarme
 description: ""
 trigger:
@@ -424,6 +426,7 @@ action:
               else:
                 - stop: Détection réussie
 mode: single
+```
 
 Libre à vous de modifier vos déclencheurs, vos actions, mais après de nombreux tests et plusieurs jours, je ne peux que vous conseiller ce principe de détection et de report.
 
