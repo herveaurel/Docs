@@ -2,7 +2,7 @@
 
 
 ## Doods2<br>
-Reconnaissance de personnes (et autres) sur photos<br>               
+Reconnaissance de personnes (et autres) sur photos<br>
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ------
