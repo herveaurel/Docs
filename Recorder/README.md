@@ -124,3 +124,12 @@ Mais sinon, c’est forcément de sa faute.
 Qui écrit ? Lui ou moi.
 En ce moment ? Forcément moi, parfois lui.
 Deux potes passionnés, Yann Ritter et Aurel RV.
+
+-----
+
+## ⭐️ Merci 
+
+Si vous aimez , likez 🌟 mon repo !
+
+Si vous souhaitez m'offrir une petite bière ou un café : https://www.paypal.com/paypalme/aaherve
+Merci ! 
