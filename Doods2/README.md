@@ -445,6 +445,11 @@ Pour ce type de carte vous pouvez vous référer directement à mon GitHub : htt
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Doods2/Captures/carte.jpg)
 
+Quant aux ressources utilisées, sur un RPI 4 pour ma part, tout va bien : 
+
+![alt text](https://github.com/herveaurel/Docs/blob/main/Doods2/Captures/rpi.jpg)
+
+
 ---------------------
 
 ## ⭐️ Merci 
