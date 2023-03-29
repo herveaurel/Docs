@@ -50,6 +50,7 @@ Dans la partie inférieure de la boîte, sous les appareils, nous retrouvons de 
 ## 2. Intégration sous l’application Reolink
 
 Passons maintenant à l'intégration sous l'application Reolink. Pour commencer le test, j'ai connecté la caméra via le transformateur inclus et la petite fiche de raccordement. Une fois alimentée, la sonnette dicte les instructions dans plusieurs langues.
+
 Étant actuellement sous Android, j'ai pu télécharger l'application en scannant le code QR disponible dans les documents depuis le playStore, puis j'ai commencé l'ajout très simplement en scannant le code QR présent sous la sonnette à l'aide de mon smartphone comme décrit dans la notice ou l’application.
 
 Vous trouverez quelques captures de l’application lors de l’ajout de l’appareil ci-dessous
@@ -102,9 +103,12 @@ Mode net
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/net.png)
 
 
-Il est intéressant de voir que la caméra dispose de nombreuses options de personnalisation pour répondre aux besoins spécifiques des utilisateurs. La possibilité de régler la résolution, l'orientation et le mode jour/nuit est particulièrement utile pour s'adapter aux différentes conditions d'éclairage. La fonction de détection de mouvement est également un élément important pour la sécurité et la surveillance, et il est appréciable de pouvoir définir des zones de détection précises et d'ajuster la sensibilité.
+Il est intéressant de voir que la caméra dispose de nombreuses options de personnalisation pour répondre aux besoins spécifiques des utilisateurs. La possibilité de régler la résolution, l'orientation et le mode jour/nuit est particulièrement utile pour s'adapter aux différentes conditions d'éclairage. 
+
+La fonction de détection de mouvement est également un élément important pour la sécurité et la surveillance, et il est appréciable de pouvoir définir des zones de détection précises et d'ajuster la sensibilité.
 
 Cependant, il est regrettable que la capture associée à la détection de mouvement ne soit pas envoyée en notification. Cela peut rendre la fonctionnalité moins utile dans certaines situations.
+
 Il est possible d’avoir des notifications mail ou push. La sauvegarde sur un FTP est une fonctionnalité intéressante pour les utilisateurs qui souhaitent sauvegarder leurs enregistrements en dehors de la caméra elle-même. Avoir une sauvegarde en ligne peut être utile en cas de vol ou de dommage à la caméra, car les enregistrements ne seraient pas perdus.
 
 
@@ -132,7 +136,11 @@ La qualité d’image en mode jour
 
 (photo bientôt en ligne)
 
-Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. En mode Nette, l'image est très nette avec de nombreux détails visibles, tandis qu'en mode fluide, la qualité est toujours correcte pour permettre de voir le correspondant. Enfin, la fluidité de la vidéo est appréciable, ce qui permet une visualisation agréable et sans saccades.
+Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. 
+
+En mode Nette, l'image est très nette avec de nombreux détails visibles, tandis qu'en mode fluide, la qualité est toujours correcte pour permettre de voir le correspondant. 
+
+Enfin, la fluidité de la vidéo est appréciable, ce qui permet une visualisation agréable et sans saccades.
 
 Et en mode nuit
 
@@ -164,14 +172,18 @@ Le flux vidéo
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA2.png)
 
 La caméra détecte les mouvements et les personnes, mais elle ne détecte pas les mains seules. Lorsque j'ai testé la caméra en passant un objet devant elle, le capteur de mouvement a changé d'état. En passant devant la caméra, les deux capteurs de mouvement et de personne ont changé d'état.
+
 La caméra ne propose qu'un flux vidéo et bien que la lecture soit fluide, il y a un léger décalage d'environ 7 secondes entre l'image en temps réel et celle affichée à l'écran.
 
-En mode vision nocturne, la qualité de l'image est correcte mais pas aussi détaillée que celle en mode jour. Sous Home Assistant, la qualité de l'image semble être celle du flux basse résolution, ce qui peut expliquer la perte de détails. Par exemple, mon visage à une distance d'un bras de la caméra n'est pas aussi clair et précis que lorsqu'elle est en mode jour. Cependant, la vision nocturne reste fonctionnelle et permet une bonne détection de mouvement.
+En mode vision nocturne, la qualité de l'image est correcte mais pas aussi détaillée que celle en mode jour. Sous Home Assistant, la qualité de l'image semble être celle du flux basse résolution, ce qui peut expliquer la perte de détails. 
+
+Par exemple, mon visage à une distance d'un bras de la caméra n'est pas aussi clair et précis que lorsqu'elle est en mode jour. Cependant, la vision nocturne reste fonctionnelle et permet une bonne détection de mouvement.
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA3.png)
 ![alt text](https://github.com/herveaurel/XXX/Captures/entiteHA4.png)
 
 Le "Chime", quant à lui, n'est pas compatible avec Home Assistant car il communique directement avec la sonnette. Il n'est donc pas possible de régler des paramètres tels que le volume, le choix de la sonnerie ou effectuer de la diffusion de son depuis Home Assistant.
+
 Je complète ce test avec un exemple de code permettant de réaliser une notification Android avec photo lors d’une pression sur le bouton de la sonnette.
 
 
