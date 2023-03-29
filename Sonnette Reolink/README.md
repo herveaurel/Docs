@@ -211,6 +211,10 @@ Je complète ce test avec un exemple de code permettant de réaliser une notific
 
 ## 4. Bilan 
 
-En conclusion, la sonnette connectée que je viens de tester s'est révélée être d'excellente qualité, avec une configuration aisée et une interface Reolink très pratique et ergonomique. De plus, cette sonnette est compatible avec Home Assistant et dispose de fonctions de retour d'information intéressantes pour la mise en place d'automatisations, comme l'envoi de notifications avec photo. 
+En conclusion, la sonnette connectée que je viens de tester s'est révélée être d'excellente qualité, avec une configuration aisée et une interface Reolink très pratique et ergonomique. 
+
+De plus, cette sonnette est compatible avec Home Assistant et dispose de fonctions de retour d'information intéressantes pour la mise en place d'automatisations, comme l'envoi de notifications avec photo. 
+
 Le prix de la sonnette est d'environ 125€, ce qui est raisonnable pour un produit de qualité et qui peut être intégré localement à Home Assistant. 
+
 En conclusion, je recommande vivement cette sonnette connectée pour ses performances et ses fonctionnalités avancées.
