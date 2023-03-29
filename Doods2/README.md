@@ -447,7 +447,7 @@ Pour ce type de carte vous pouvez vous référer directement à mon GitHub : htt
 
 ---------------------
 
-## ⭐️ VIP 
+## ⭐️ Merci 
 
 Si vous aimez , likez 🌟 mon repo !
 
