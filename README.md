@@ -2,24 +2,21 @@
 
 
 ## Doods2 
-Reconnaissance de personnes (et autres) sur photos
-
+Reconnaissance de personnes (et autres) sur photos 
 https://github.com/herveaurel/Docs/tree/main/Doods2
 
 ------
 
 ## Aspirateur Xiaomi 
 Cartographie dynamique et commandes vocales 
-Ecrit avec mon pote Yann RITTER
-
+Ecrit avec mon pote Yann RITTER 
 https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
 ------
 
 ## Recorder 
 Maîtriser la taille de la base de données
-Ecrit avec mon pote Yann RITTER
-
+Ecrit avec mon pote Yann RITTER 
 https://github.com/herveaurel/Docs/tree/main/Recorder
 
 ------
