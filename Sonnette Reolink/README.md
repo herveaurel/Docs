@@ -100,7 +100,7 @@ Il est également possible de prendre des captures photo ou vidéo qui seront di
 
 Enfin, pour l'image, il y a trois modes de qualité (net, équilibré, fluide) afin d'obtenir une image fluide quel que soit le débit.
 
-
+<br>
 Mode fluide / Mode équilibré / Mode net
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/fluide.png)
