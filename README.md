@@ -8,7 +8,7 @@ https://github.com/herveaurel/Docs/tree/main/Doods2
 ------
 
 ## Aspirateur Xiaomi 
-Cartographie dynamique et commandes vocales 
+Cartographie dynamique et commandes vocales<br>
 Ecrit avec mon pote Yann RITTER 
 https://github.com/herveaurel/Docs/tree/main/Aspirateur
 
