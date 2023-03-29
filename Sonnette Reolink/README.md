@@ -15,18 +15,24 @@ Boîte aux couleurs de la marque, relativement compacte et les informations tech
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink//Captures/boite1.png)
 
 
-Déballage du produit : Nous avons la sonnette connectée en noir ainsi que le « chime » en blanc (module intérieur) en premier plan.
+Déballage du produit : 
+
+La sonnette connectée en noir ainsi que le « chime » en blanc (module intérieur) en premier plan.
 Les deux appareils sont très bien conçus et sont relativement lourds.
 
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu1.png)![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu2.png)![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu3.png)
 
 
-La sonnette dispose d'un bouton avec un cerclage lumineux que nous ne pouvons pas manquer, ainsi que d'un objectif et d'un petit trou pour le microphone. Le « chime » dispose de 3 boutons sur le côté permettant d'associer la sonnette, de choisir la sonnerie et de régler le volume.
+La sonnette dispose d'un bouton avec un cerclage lumineux qu'on ne peut pas manquer, ainsi que d'un objectif et d'un petit trou pour le microphone. 
 
-Dans la pochette bleue, nous trouvons les documents habituels, y compris la garantie, la notice de la sonnette, la notice du « chime » et le gabarit de perçage. Bien entendu, tout est livré avec la traduction en français.
+Le « chime » (carillon) dispose de 3 boutons sur le côté permettant d'associer la sonnette, de choisir la sonnerie et de régler le volume.
 
-Dans la partie inférieure de la boîte, sous les appareils, nous retrouvons de nombreux câbles et accessoires, notamment : 
+Dans la pochette bleue : les documents habituels, y compris la garantie, la notice de la sonnette, la notice du « chime » et le gabarit de perçage. 
+
+Bien entendu, tout est livré avec la traduction en français.
+
+Dans la partie inférieure de la boîte, sous les appareils,  de nombreux câbles et accessoires, notamment : 
 - La platine de montage en métal
 - Le kit pour incliner l'appareil de 30 degrés
 - La visserie
@@ -46,11 +52,13 @@ Dans la partie inférieure de la boîte, sous les appareils, nous retrouvons de 
 
 ## 2. Intégration sous l’application Reolink
 
-Passons maintenant à l'intégration sous l'application Reolink. Pour commencer le test, j'ai connecté la caméra via le transformateur inclus et la petite fiche de raccordement. Une fois alimentée, la sonnette dicte les instructions dans plusieurs langues.
+Intégration sous l'application Reolink :
 
-Étant actuellement sous Android, j'ai pu télécharger l'application en scannant le code QR disponible dans les documents depuis le playStore, puis j'ai commencé l'ajout très simplement en scannant le code QR présent sous la sonnette à l'aide de mon smartphone comme décrit dans la notice ou l’application.
+Pour commencer le test, j'ai connecté la caméra via le transformateur inclus et la petite fiche de raccordement. 
 
-Vous trouverez quelques captures de l’application lors de l’ajout de l’appareil ci-dessous
+Une fois alimentée, la sonnette dicte les instructions dans plusieurs langues.
+
+Le test se déroulant avec un smartphone sous Android, j'ai pu télécharger l'application en scannant le code QR disponible dans les documents depuis le playStore, puis j'ai commencé l'ajout très simplement en scannant le code QR présent sous la sonnette à l'aide de mon smartphone comme décrit dans la notice ou l’application.
 
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkapp1.png)
@@ -61,7 +69,9 @@ Vous trouverez quelques captures de l’application lors de l’ajout de l’app
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkapp5.png)
 
 
-L'intégration a pris quelques petites minutes et la caméra est compatible avec les réseaux 2,4 GHz et 5 GHz. Dans mon cas, j'ai opté pour le 2,4 GHz en raison de la portée Wifi au niveau de mon portail, où la sonnette sera placée de façon définitive.
+L'intégration a pris quelques petites minutes et la caméra est compatible avec les réseaux 2,4 GHz et 5 GHz. 
+
+J'ai opté pour le 2,4 GHz en raison de la portée Wifi au niveau de mon portail, où la sonnette sera placée de façon définitive.
 
 L’application indique également comment réaliser l’installation au mur.
 
@@ -76,37 +86,48 @@ L’application indique également comment réaliser l’installation au mur.
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkappinstall6.png)
 
 
-Maintenant que la caméra est connectée à l'application Reolink, nous pouvons nous attarder sur les différentes fonctionnalités de celle-ci.
+Maintenant que la caméra est connectée à l'application Reolink, voici les différentes fonctionnalités :
 
-Un bouton central permet de parler en mode interphone avec la sonnette, ce qui peut être très pratique pour donner des consignes au facteur ou annoncer notre arrivée. Je suis très satisfait de la qualité sonore dans les deux sens.
+Un bouton central permet de parler en mode interphone avec la sonnette, ce qui peut être très pratique pour donner des consignes au facteur ou annoncer notre arrivée. 
+Je suis très satisfait de la qualité sonore dans les deux sens.
 
-Un bouton de réponse rapide permet de définir des messages pouvant être dictés par l'appareil. Trois sont disponibles par défaut en anglais, mais il est bien entendu possible d'en ajouter. Les messages sont clairs même si la voix n'est pas très naturelle.
+Un bouton de réponse rapide permet de définir des messages pouvant être dictés par l'appareil. 
+Trois sont disponibles par défaut en anglais, mais il est bien entendu possible d'en ajouter. 
+Les messages sont clairs même si la voix n'est pas très naturelle.
 
-Un bouton permet la lecture des enregistrements présents sur la carte micro SD. Il est également possible de prendre des captures photo ou vidéo qui seront directement enregistrées sur le smartphone.
+Un bouton permet la lecture des enregistrements présents sur la carte micro SD. 
+Il est également possible de prendre des captures photo ou vidéo qui seront directement enregistrées sur le smartphone.
 
-Enfin, pour l'image, nous avons trois modes de qualité (net, équilibré, fluide) afin d'obtenir une image fluide quel que soit le débit.
+Enfin, pour l'image, il y a trois modes de qualité (net, équilibré, fluide) afin d'obtenir une image fluide quel que soit le débit.
 
 
 Mode fluide 
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/fluide.png)
 
+
 Mode équilibré
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/equilibre.png)
+
 
 Mode net
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/net.png)
 
 
-Il est intéressant de voir que la caméra dispose de nombreuses options de personnalisation pour répondre aux besoins spécifiques des utilisateurs. La possibilité de régler la résolution, l'orientation et le mode jour/nuit est particulièrement utile pour s'adapter aux différentes conditions d'éclairage. 
+
+Il est intéressant de voir que la caméra dispose de nombreuses options de personnalisation pour répondre aux besoins spécifiques des utilisateurs. 
+La possibilité de régler la résolution, l'orientation et le mode jour/nuit est particulièrement utile pour s'adapter aux différentes conditions d'éclairage. 
 
 La fonction de détection de mouvement est également un élément important pour la sécurité et la surveillance, et il est appréciable de pouvoir définir des zones de détection précises et d'ajuster la sensibilité.
 
-Cependant, il est regrettable que la capture associée à la détection de mouvement ne soit pas envoyée en notification. Cela peut rendre la fonctionnalité moins utile dans certaines situations.
+Cependant, il est regrettable que la capture associée à la détection de mouvement ne soit pas envoyée en notification. 
+Cela peut rendre la fonctionnalité moins utile dans certaines situations.
 
-Il est possible d’avoir des notifications mail ou push. La sauvegarde sur un FTP est une fonctionnalité intéressante pour les utilisateurs qui souhaitent sauvegarder leurs enregistrements en dehors de la caméra elle-même. Avoir une sauvegarde en ligne peut être utile en cas de vol ou de dommage à la caméra, car les enregistrements ne seraient pas perdus.
+Il est possible d’avoir des notifications mail ou push. 
+La sauvegarde sur un FTP est une fonctionnalité intéressante pour les utilisateurs qui souhaitent sauvegarder leurs enregistrements en dehors de la caméra elle-même. 
+Avoir une sauvegarde en ligne peut être utile en cas de vol ou de dommage à la caméra, car les enregistrements ne seraient pas perdus.
 
 
 - Résolution de l'image : permet de choisir la qualité de l'image (720p, 1080p, etc.).
@@ -133,7 +154,8 @@ La qualité d’image en mode jour
 
 (photo bientôt en ligne)
 
-Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. 
+Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. 
+L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. 
 
 En mode Nette, l'image est très nette avec de nombreux détails visibles, tandis qu'en mode fluide, la qualité est toujours correcte pour permettre de voir le correspondant. 
 
@@ -148,40 +170,54 @@ Et en mode nuit
 ## 3. Intégration sous Home assistant
 
 
-Dans le cadre de mon test, j'ai également essayé l'intégration de la caméra Reolink sous Home Assistant (https://www.home-assistant.io/integrations/reolink/ ), un système de domotique open source. Cette intégration native a été mise à jour récemment pour les versions 2023 de Home Assistant et est accessible depuis le menu "Intégrations".
+Dans le cadre de mon test, j'ai évidemment essayé l'intégration de la caméra Reolink sous Home Assistant (https://www.home-assistant.io/integrations/reolink/ ).
 
-L'ajout de la caméra à Home Assistant est facile et nécessite simplement de saisir le nom d'utilisateur (admin par défaut), le mot de passe que vous avez créé lors de l'ajout de la caméra, et l'adresse IP de la caméra, qui doit être fixe sur votre réseau DHCP. Il est important de noter que vous ne pouvez pas modifier cette adresse IP depuis l'application Reolink.
+Cette intégration native a été mise à jour récemment pour les versions 2023 de Home Assistant et est accessible depuis le menu "Intégrations".
 
-Il se peut que le port soit également requis, et pour cela j'ai suivi les instructions fournies sur le site de Reolink (https://support.reolink.com/hc/en-us/articles/900000627703-Which-Default-Ports-Used-by-Reolink-Cameras-should-be-Allowed-to-Go-Through-the-Firewall). J'ai défini le port 443 et le activé le protocole HTTPS pour m'assurer que la caméra fonctionne correctement avec Home Assistant. 
+L'ajout de la caméra à Home Assistant est facile et nécessite simplement de saisir le nom d'utilisateur (admin par défaut), le mot de passe que vous avez créé lors de l'ajout de la caméra, et l'adresse IP de la caméra, qui doit être fixe sur votre réseau DHCP. 
+
+Il est important de noter que vous ne pouvez pas modifier cette adresse IP depuis l'application Reolink.
+
+Il se peut que le port soit également requis, et pour cela j'ai suivi les instructions fournies sur le site de Reolink (https://support.reolink.com/hc/en-us/articles/900000627703-Which-Default-Ports-Used-by-Reolink-Cameras-should-be-Allowed-to-Go-Through-the-Firewall). 
+J'ai défini le port 443 et le activé le protocole HTTPS pour m'assurer que la caméra fonctionne correctement avec Home Assistant. 
 
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/paramHA1.png)
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/paramHA2.png)
 
-Une fois intégrée, la caméra peut être utilisée pour diverses automatisations et notifications, ce qui la rend très pratique pour la surveillance de la maison. Voici l’appareil crée sous home assistant suite à l’intégration.
+Une fois intégrée, la caméra peut être utilisée pour diverses automatisations et notifications, ce qui la rend très pratique pour la surveillance de la maison. 
+Voici l’appareil crée sous home assistant suite à l’intégration.
 
 L'entité créée
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA1.png)
 
+
 Le flux vidéo
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA2.png)
 
-La caméra détecte les mouvements et les personnes, mais elle ne détecte pas les mains seules. Lorsque j'ai testé la caméra en passant un objet devant elle, le capteur de mouvement a changé d'état. En passant devant la caméra, les deux capteurs de mouvement et de personne ont changé d'état.
+
+La caméra détecte les mouvements et les personnes, mais elle ne détecte pas les mains seules. 
+Lorsque j'ai testé la caméra en passant un objet devant elle, le capteur de mouvement a changé d'état. 
+En passant devant la caméra, les deux capteurs de mouvement et de personne ont changé d'état.
 
 La caméra ne propose qu'un flux vidéo et bien que la lecture soit fluide, il y a un léger décalage d'environ 7 secondes entre l'image en temps réel et celle affichée à l'écran.
 
-En mode vision nocturne, la qualité de l'image est correcte mais pas aussi détaillée que celle en mode jour. Sous Home Assistant, la qualité de l'image semble être celle du flux basse résolution, ce qui peut expliquer la perte de détails. 
+En mode vision nocturne, la qualité de l'image est correcte mais pas aussi détaillée que celle en mode jour. 
+Sous Home Assistant, la qualité de l'image semble être celle du flux basse résolution, ce qui peut expliquer la perte de détails. 
 
-Par exemple, mon visage à une distance d'un bras de la caméra n'est pas aussi clair et précis que lorsqu'elle est en mode jour. Cependant, la vision nocturne reste fonctionnelle et permet une bonne détection de mouvement.
+Par exemple, mon visage à une distance d'un bras de la caméra n'est pas aussi clair et précis que lorsqu'elle est en mode jour. 
+Cependant, la vision nocturne reste fonctionnelle et permet une bonne détection de mouvement.
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA3.png)
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA4.png)
 
-Le "Chime", quant à lui, n'est pas compatible avec Home Assistant car il communique directement avec la sonnette. Il n'est donc pas possible de régler des paramètres tels que le volume, le choix de la sonnerie ou effectuer de la diffusion de son depuis Home Assistant.
 
-Je complète ce test avec un exemple de code permettant de réaliser une notification Android avec photo lors d’une pression sur le bouton de la sonnette.
+Le "Chime", quant à lui, n'est pas compatible avec Home Assistant car il communique directement avec la sonnette. 
+Il n'est donc pas possible de régler des paramètres tels que le volume, le choix de la sonnerie ou effectuer de la diffusion de son depuis Home Assistant.
+
+Voici un exemple de code permettant de réaliser une notification Android avec photo lors d’une pression sur le bouton de la sonnette.
 
 
 ```
@@ -218,12 +254,12 @@ Je complète ce test avec un exemple de code permettant de réaliser une notific
 
 ```
 
-## 4. Bilan 
+## 4. Conclusion 
 
-En conclusion, la sonnette connectée que je viens de tester s'est révélée être d'excellente qualité, avec une configuration aisée et une interface Reolink très pratique et ergonomique. 
+La sonnette connectée s'est révélée être d'excellente qualité, avec une configuration simple et une interface Reolink très pratique et ergonomique. 
 
-De plus, cette sonnette est compatible avec Home Assistant et dispose de fonctions de retour d'information intéressantes pour la mise en place d'automatisations, comme l'envoi de notifications avec photo. 
+De plus, elle est compatible avec Home Assistant et dispose de fonctions de retour d'informations intéressantes pour la mise en place d'automatisations, comme l'envoi de notifications avec photo. 
 
-Le prix de la sonnette est d'environ 125€, ce qui est raisonnable pour un produit de qualité et qui peut être intégré localement à Home Assistant. 
+Son prix est d'environ 125€, ce qui semble raisonnable pour un produit de qualité et qui peut être intégré localement à Home Assistant. 
 
 En conclusion, je recommande vivement cette sonnette connectée pour ses performances et ses fonctionnalités avancées.
