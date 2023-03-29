@@ -130,13 +130,13 @@ Illustration des paramètres :
 
 La qualité d’image en mode jour
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/jour.png)
+(photo bientôt en ligne)
 
 Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. En mode Nette, l'image est très nette avec de nombreux détails visibles, tandis qu'en mode fluide, la qualité est toujours correcte pour permettre de voir le correspondant. Enfin, la fluidité de la vidéo est appréciable, ce qui permet une visualisation agréable et sans saccades.
 
 Et en mode nuit
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/nuit.png)
+(photo bientôt en ligne)
 
 -----
 
