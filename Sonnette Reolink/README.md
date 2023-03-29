@@ -173,7 +173,7 @@ Il est important de noter que vous ne pouvez pas modifier cette adresse IP depui
 
 Il se peut que le port soit également requis, et pour cela j'ai suivi les instructions fournies sur le site de Reolink (https://support.reolink.com/hc/en-us/articles/900000627703-Which-Default-Ports-Used-by-Reolink-Cameras-should-be-Allowed-to-Go-Through-the-Firewall). 
 
-J'ai défini le port 443 et le activé le protocole HTTPS pour m'assurer que la caméra fonctionne correctement avec Home Assistant. 
+J'ai défini le port 443 et activé le protocole HTTPS pour m'assurer que la caméra fonctionne correctement avec Home Assistant. 
 
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/paramHA1.png)
