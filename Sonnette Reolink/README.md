@@ -90,10 +90,15 @@ Enfin, pour l'image, nous avons trois modes de qualité (net, équilibré, fluid
 
 
 Mode fluide 
+
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/fluide.png)
+
 Mode équilibré
+
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/equilibre.png)
+
 Mode net
+
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/net.png)
 
 
