@@ -160,6 +160,7 @@ L'entité créée
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA1.png)
 
 Le flux vidéo
+
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/entiteHA2.png)
 
 La caméra détecte les mouvements et les personnes, mais elle ne détecte pas les mains seules. Lorsque j'ai testé la caméra en passant un objet devant elle, le capteur de mouvement a changé d'état. En passant devant la caméra, les deux capteurs de mouvement et de personne ont changé d'état.
