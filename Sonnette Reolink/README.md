@@ -13,16 +13,13 @@ Lien du produit : https://reolink.com/fr/product/reolink-video-doorbell-wifi/
 Tout d'abord, la boîte aux couleurs de la marque est relativement compacte et les informations techniques et de garantie sont indiquées sur le côté.
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink//Captures/boite1.png)
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/boite2.png)
 
 
 Passons maintenant au concret avec le déballage du produit. Nous avons la sonnette connectée en noir ainsi que le « chime » en blanc (module intérieur) en premier plan.
 Les deux appareils sont très bien conçus et sont relativement lourds.
 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu1.png)
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu2.png)
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu3.png)
+![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu1.png)![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu2.png)![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/contenu3.png)
 
 
 La sonnette dispose d'un bouton avec un cerclage lumineux que nous ne pouvons pas manquer, ainsi que d'un objectif et d'un petit trou pour le microphone. Le « chime » dispose de 3 boutons sur le côté permettant d'associer la sonnette, de choisir la sonnerie et de régler le volume.
