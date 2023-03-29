@@ -10,12 +10,12 @@ Lien du produit : https://reolink.com/fr/product/reolink-video-doorbell-wifi/
 
 ## 1. Unboxing 
 
-Tout d'abord, la boîte aux couleurs de la marque est relativement compacte et les informations techniques et de garantie sont indiquées sur le côté.
+Boîte aux couleurs de la marque, relativement compacte et les informations techniques et de garantie sont indiquées sur le côté.
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink//Captures/boite1.png)
 
 
-Passons maintenant au concret avec le déballage du produit. Nous avons la sonnette connectée en noir ainsi que le « chime » en blanc (module intérieur) en premier plan.
+Déballage du produit : Nous avons la sonnette connectée en noir ainsi que le « chime » en blanc (module intérieur) en premier plan.
 Les deux appareils sont très bien conçus et sont relativement lourds.
 
 
