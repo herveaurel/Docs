@@ -451,5 +451,5 @@ Pour ce type de carte vous pouvez vous référer directement à mon GitHub : htt
 
 Si vous aimez , likez 🌟 mon repo !
 
-Si vous souhaitez m'offrir une petite bière 🍺 ou un café ☕️, dire merci 🙏, me soutenir ❤️‍🩹, ou m'encourager 💪🏼, et devenir VIP ⭐️ pour une aide personnalisée par message privé : https://www.paypal.com/paypalme/aaherve
+Si vous souhaitez m'offrir une petite bière ou un café : https://www.paypal.com/paypalme/aaherve
 Merci ! 
