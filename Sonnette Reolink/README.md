@@ -145,7 +145,7 @@ Illustration des paramètres :
 
 La qualité d’image en mode jour dans Home Assistant et dans l'application Reolink :
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/haJour.png) ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkJour.png) ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkJour90degre.png) 
+![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/haJour.jpg) ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkJour.jpg) ![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkJour90degre.jpg) 
 
 Il est intéressant de noter que la qualité d'image de la caméra Reolink en mode jour est très satisfaisante. 
 L'angle de vue est large, ce qui permet une bonne détection sur un large plan et les réglages permettent de restreindre la zone de surveillance si besoin. 
@@ -157,7 +157,7 @@ Enfin, la fluidité de la vidéo est appréciable, ce qui permet une visualisati
 
 Et en mode nuit, à environ 1.20 mètres de la sonnette : 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkNuitPersonne.png)
+![alt text](https://github.com/herveaurel/Docs/blob/main/Sonnette%20Reolink/Captures/reolinkNuitPersonne.jpg)
 
 -----
 
