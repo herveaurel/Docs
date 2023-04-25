@@ -1,6 +1,12 @@
 # Home Assistant - Articles et tutoriels
 
 
+## TEST : SwitchBot Lock<br>
+test sous Home Assistant<br>
+https://github.com/herveaurel/Docs/tree/main/SwitchBot%20Lock
+
+------
+
 ## TEST : Sonnette Reolink Wi-Fi<br>
 Unboxing et test complet<br>
 https://github.com/herveaurel/Docs/tree/main/Sonnette%20Reolink
