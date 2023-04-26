@@ -1,9 +1,8 @@
 # Home Assistant - Switchbot Lock (par Aurel RV)
 
+SwitchBot m'a proposé de tester la SwitchBot Lock, avec le Keypad Touch (code, emprunte digitale et NFC), et le hub mini. 
 
 Avoir les serrures connectées et automatisées s'est révélé être un avantage précieux et il serait difficile de revenir en arrière maintenant ! 
-
-SwitchBot m'a proposé de tester la SwitchBot Lock, avec le Keypad Touch (code, emprunte digitale et NFC), et le hub mini. 
 
 
 ## 1. Présentation : 
@@ -466,7 +465,6 @@ Au début j'utilisais les possibilités de l'application SwitchBot, mais, ayant 
 
 Dommage que les Keypad ne remontent pas, j'aurais adoré avoir des infos comme avec d'autres marques, à savoir " déverrouillé via le keypad", ou "qui a déverrouillé avec le Keypad" suivant le code tapé par exemple... 
 
-Acheter le produit : https://www.amazon.fr/dp/B0B9GKBK65?maas=maas_adg_D2E3ECBBFD4CE1B6C9AF276FD2281B45_afap_abs&ref_=aa_maas&tag=maas
 
 
 ---------------------
