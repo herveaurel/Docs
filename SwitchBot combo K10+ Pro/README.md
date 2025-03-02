@@ -44,8 +44,6 @@ Tout est parfaitement protégé et emballé, on découvre beaucoup de pièces ma
 - Un accessoire de nettoyage
 - Une plaque pour la serpillère
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/02.jpeg)
-
 ![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/03.jpeg)
 
 ![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/04.jpeg)
