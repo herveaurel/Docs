@@ -7,7 +7,7 @@ Je vous donne mon avis sur le combo K10+ Pro de SwitchBot, qui s'avère petit ma
 
 ## 1. Présentation : 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/01.png)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/01.png)
 
 C'est impressionnant quand on le voit la première fois, ce robot est l’un des plus petits de sa catégorie !
 Aussi efficace qu'un grand, il passera partout, ou presque. 
@@ -29,7 +29,7 @@ Quand il retourne sur sa base pour se recharger, si besoin et selon les paramèt
 C'est un confort qu'il devient difficile d'ignorer quand on a l'habitude de vider le bac de son aspirateur tous les 3 jours, ou de son balai... Avec le K10+ Pro, le robot et le balai deviennent autonomes pour se vider ! 
 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/02.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/02.jpeg)
 
 Tout est parfaitement protégé et emballé, on découvre beaucoup de pièces mais qui au final sont très rapides à assembler. 
 
@@ -44,19 +44,19 @@ Tout est parfaitement protégé et emballé, on découvre beaucoup de pièces ma
 - Un accessoire de nettoyage
 - Une plaque pour la serpillère
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/02.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/02.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/03.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/03.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/04.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/04.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/05.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/05.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/06.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/06.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/07.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/07.jpeg)
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/08.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/08.jpeg)
 
 
 Je ne vous détaille pas les caractéristiques afin de ne pas faire de ce test un roman pénible à lire, et qui se trouvent très facilement sur internet. 
@@ -67,25 +67,25 @@ Je ne vous détaille pas les caractéristiques afin de ne pas faire de ce test u
 
 Via l'application SwitchBot il sera très simple de l'ajouter, il suffit de suivre les quelques étapes nécessaires en cliquant sur le "+" et être sur le réseau WIFI. (2.4 uniquement supporté) 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/09.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/09.jpeg)
 
 Une fois la connexion établie, un petit tour dans les réglages et on s'aperçoit vite que tout est bien pensé, et facile. 
 
 L'apprentissage de la carte par le robot est rapide, c'est très appréciable. 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/10.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/11.jpeg)
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/12.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/13.jpeg)
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/14.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/15.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/10.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/11.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/12.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/13.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/14.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/15.jpeg)
 
 On peut créer des pièces et les renommer, créer des zones interdites, des zones sans lavage etc... 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/16.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/17.jpeg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/16.jpeg)![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/17.jpeg)
 
 Il faudra prendre le temps de regarder dans les paramètres, afin de peaufiner chaque détail, mais les réglages de base sont bien pensés. 
 
 On pourra programmer l'aspirateur sur des jours, des heures, en déterminant quelles pièces seront nettoyées par exemple. 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/18.jpg)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/18.jpg)
 
 Dès les premiers essais, je suis agréablement surpris par le niveau sonore relativement faible, et l'efficacité d'aspiration. 
 
@@ -119,7 +119,7 @@ Automatiser son déclenchement pour un nettoyage complet basé par exemple sur l
 
 De plus, la section aspirateur via Matter devrait bientôt être compatible, prévue pour 2025 ! 
 
-![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%combo%K10+%Pro/Images/19.png)
+![alt text](https://github.com/herveaurel/Docs/blob/main/SwitchBot%20combo%20K10%2B%20Pro/Images/19.png)
 
 
 ---------------------
