@@ -1,5 +1,10 @@
 # Home Assistant - Articles et tutoriels
 
+## TEST : SwitchBot combo K10+ Pro<br>
+test sous Home Assistant<br>
+https://github.com/herveaurel/Docs/tree/main/SwitchBot%20combo%20K10%2B%20Pro
+
+------
 
 ## TEST : SwitchBot Lock<br>
 test sous Home Assistant<br>
