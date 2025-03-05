@@ -44,7 +44,7 @@ Tout est parfaitement protégé et emballé, on découvre beaucoup de pièces ma
 - Une paire de brosses latérales
 - Les notices d’utilisation
 - La station de vidange
-- Deux sacs à poussières
+- Deux sacs à poussières de 4 litres
 - Deux filtres
 - Un paquet de lingettes
 - Un accessoire de nettoyage
